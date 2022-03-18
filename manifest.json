@@ -1,0 +1,9 @@
+{
+    "name": "Mario Party 4 Upscale!",
+    "id": "mp4-upscale",
+    "version": "1.1",
+    "authors": ["UnicorNora", "Braixen"],
+    "website": "https://github.com/UnicorNora/Mario-Party-4-Upscale",
+    "description": "An upscale done by Waifu2x",
+    "compressed": "true"
+}
